@@ -1,5 +1,6 @@
 
 # Reddit Comment Extractor
+![image](image.png)
 
 A web application that extracts and displays comments from Reddit threads, built with Flask and PRAW (Python Reddit API Wrapper).
 
